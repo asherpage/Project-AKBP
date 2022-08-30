@@ -4,11 +4,21 @@
  width: 60%;
  padding: 10px;
  text-align: center;
- text-shadow: 2px 2px black;
+ text-shadow: 2px 2px red;
  font-family: sans-serif;
 }
 
 body {
- background-image: url("https://i.pinimg.com/originals/60/48/12/60481218c564666e54f914bf95332897.jpg");
+ background-image: "";
  background-position: center;
+}
+
+.center2 {
+ color:crimson;
+ margin: auto;
+ width: 60%;
+ padding: 10px;
+ text-align: center;
+ text-shadow: 2px 2px violet;
+ font-family: sans-serif;
 }
