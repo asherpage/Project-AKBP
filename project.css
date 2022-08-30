@@ -9,7 +9,7 @@
 }
 
 body {
- background-image: url(spa.jpg);
+ background-image: url(img.jpg);
  background-position: center;
 }
 
@@ -18,7 +18,7 @@ body {
  margin: auto;
  width: 60%;
  padding: 10px;
- text-align: center;
+ text-align: left;
  text-shadow: 2px 2px violet;
  font-family: sans-serif;
 }
