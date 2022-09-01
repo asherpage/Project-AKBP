@@ -1,3 +1,4 @@
+// sets the variables for the console.log
 var steve = 39
 var glados = 20
 var pikachu = 13
@@ -8,7 +9,9 @@ var tomNook = 4
 var sage = 4
 var link = 3
 var chung_li = 0
-console.log(steve + glados + pikachu + masterChief + mario + pacman + tomNook + sage + link + chung_li)
+//adds up all of the scores into a total
+console.log("Total: " + Number(  steve + glados + pikachu + masterChief + mario + pacman + tomNook + sage + link + chung_li))
+//gives the single score of each person 
 console.log("First: Steve =" + steve)
 console.log("Second: GLaDOS =" + glados)
 console.log("Third: Pikachu =" + pikachu)
